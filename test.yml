@@ -1,4 +1,4 @@
 ---
 - hosts: localhost
   tasks:
-  - shell: echo "{{var1}}"
+  - shell: echo "{{stage}}"
